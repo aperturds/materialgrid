@@ -3,7 +3,7 @@
 
 Para todos aquellos que quieren trabajar con algo diferente pero no quieren deshacer-se de la grid de bootstrap.
 
-Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sustituye el sistema de grid que materializeincluye por el de [**Boostrap**](http://getbootstrap.com/css/#grid). 
+Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sustituye el sistema de grid que materialize incluye por el sistema de grid de [**Boostrap**](http://getbootstrap.com/css/#grid). 
 
 ### Instalación:
 
