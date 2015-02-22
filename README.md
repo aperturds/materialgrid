@@ -15,7 +15,7 @@ Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sus
 
 El uso de materialgrid es secillo, es el mismo que el materialize original excepto que, en vez de usar sus clases de grid, debes usar las de [Boostrap](http://getbootstrap.com/css/#grid).
 
-Una pequeña guía de las clases y sus dimensiones (# tiene que ser reemplazado por la cantidad de columnas deseadas, 12 columnas representa el 100% del contenedor del elemento.
+Una pequeña guía de las clases y sus dimensiones (# tiene que ser reemplazado por la cantidad de columnas deseadas, 12 columnas representa el 100% del contenedor del elemento.)
 
 Clase | Pixeles | Dispositivo
 ------------ | ------------- | ------------
