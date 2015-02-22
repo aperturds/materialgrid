@@ -1,7 +1,9 @@
 # Materialgrid
 ## Español
 
-Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sustituye el sistema de grid por el de [**Boostrap**](http://getbootstrap.com/css/#grid).
+Para todos aquellos que quieren trabajar con algo diferente pero no quieren deshacer-se de la grid de bootstrap.
+
+Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sustituye el sistema de grid que materializeincluye por el de [**Boostrap**](http://getbootstrap.com/css/#grid). 
 
 ### Instalación:
 
@@ -11,10 +13,9 @@ Materialgrid es un fork de [**Materialize**](http://materializecss.com/) que sus
 
 ### Uso
 
-El uso de materialgrid es secillo, simplemente usa Materializecss como indica en su pagina [web](http://materializecss.com/).
-Con la exepción de usar el grid como se indica en la wiki de [Boostrap](http://getbootstrap.com/css/#grid).
+El uso de materialgrid es secillo, es el mismo que el materialize original excepto que, en vez de usar sus clases de grid, debes usar las de [Boostrap](http://getbootstrap.com/css/#grid).
 
-Una pequeña guía de las clases y sus dimenciones
+Una pequeña guía de las clases y sus dimensiones (# tiene que ser reemplazado por la cantidad de columnas deseadas, 12 columnas representa el 100% del contenedor del elemento.
 
 Clase | Pixeles | Dispositivo
 ------------ | ------------- | ------------
