@@ -21,5 +21,32 @@ Clase | Pixeles | Dispositivo
 ------------ | ------------- | ------------
 .col-xs-# | <768px | Moviles
 .col-sm-# | ≥768px | Tablets
-.col-md-# | ≥992px | Escritorios
+.col-md-# | ≥992px | Portátiles
 .col-lg-# | ≥1200px | Escritorios de sobremesa.
+____________________________________________________________________________________________________________________________
+
+## English
+
+For all those who want to work with something different but want also to keep the bootstrap grid system.
+
+Materialgrid is a modification of [**Materialize**](http://materializecss.com/) that implements the [**Bootstrap**](http://getbootstrap.com/css/#grid) grid system into materialize replacing it. 
+
+### Installation:
+
+- Install Materializecss, either the **CSS** or the **SASS** one.
+- Replace **css** or **sccs** folders depending on the version you're using.
+- ¡Done!
+
+### Usage
+
+To use materialgrid read the [Materialize wiki](http://materializecss.com/getting-started.html) and use it as it is written there but replace the grid system clases by the ones from [Bootstrap](http://getbootstrap.com/css/#grid).
+
+Here is a basic guide on how does the Bootstrap grid system work: (# has to be replaced with the number of desired columns, 12 columns represents a 100% of element's width).
+
+Class | Pixels | Device
+------------ | ------------- | ------------
+.col-xs-# | <768px | Phone
+.col-sm-# | ≥768px | Tablet
+.col-md-# | ≥992px | Laptop
+.col-lg-# | ≥1200px | Desktop
+
