@@ -35,13 +35,13 @@ Materialgrid is a modification of [**Materialize**](http://materializecss.com/) 
 
 - Install Materializecss, either the **CSS** or the **SASS** one.
 - Replace **css** or **sccs** folders depending on the version you're using.
-- ¡Done!
+- Done!
 
 ### Usage
 
 To use materialgrid read the [Materialize wiki](http://materializecss.com/getting-started.html) and use it as it is written there but replace the grid system clases by the ones from [Bootstrap](http://getbootstrap.com/css/#grid).
 
-Here is a basic guide on how does the Bootstrap grid system work: (# has to be replaced with the number of desired columns, 12 columns represents a 100% of element's width).
+Here is a basic guide on how does the Bootstrap grid system work: (# has to be replaced with the number of desired columns, 12 columns represents a 100% of the element's width).
 
 Class | Pixels | Device
 ------------ | ------------- | ------------
